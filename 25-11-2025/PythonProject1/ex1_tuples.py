@@ -1,0 +1,5 @@
+t=(1, 2, "krittika", 3, 28, "sara")
+x=tuple([i for i in t if type(i)==int])
+k=tuple([k for k in t if type(k)==str])
+print(x)
+print(k)
