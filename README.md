@@ -3,4 +3,4 @@ This repository contains day-to-day documentation based on the training done fro
 ## Day 1
 Folder 24-11-2025: Introduction to Python and Basics on Python Programming, Python Program code files(basics of loop, condition-based)
 ## Day 2
-Folder 25-11-2025: Python List Programming (list operations, slicing, functions, list comprehension)
+Folder 25-11-2025: Python List and Tuple Programming (list operations, slicing, functions, list comprehension, tuple operations, tuple slicing, packing and unpacking)
