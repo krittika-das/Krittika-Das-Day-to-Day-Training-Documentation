@@ -8,3 +8,5 @@ Folder 25-11-2025: Python List and Tuple Programming (list operations, slicing, 
 Folder 26-11-2025: Class, objects and the OOPs concept, related programs and case-based implementations.
 ## Day 4
 Folder 27-11-2025: OOPs concepts, inheritance, super(), types of inheritance, method overriding, method overloading, file and read-write operations.
+## Day 5
+Folder 28-11-2025: Lambda functions, dnamic content in files using lambda.
