@@ -1,0 +1,5 @@
+This is Python.
+It is a good language
+Python is cross-platform,
+I love coding in Python
+All should code daily 
