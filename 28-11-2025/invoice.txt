@@ -1,0 +1,5 @@
+Invoice 
+Item 	 Quantity 	 Price 	 Total 
+
+Pen 	 10.0 	 5.0Notebook 	 3.0 	 40.0Eraser 	 5.0 	 3.0
+Total : 18.0

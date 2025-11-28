@@ -1,0 +1,11 @@
+
+            Name: Krittika,
+            Amount to be paid: 9000
+            Name: Sara,
+            Amount to be paid: 2340
+            Name: Prats,
+            Amount to be paid: 9902
+            Name: Devs,
+            Amount to be paid: 11000
+            Name: Sravan,
+            Amount to be paid: 76488
