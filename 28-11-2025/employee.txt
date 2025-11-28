@@ -1,0 +1,11 @@
+
+    Employee record:
+    ID: 101,
+    Name: Krittika,
+    Salary: 35000
+    
+    Employee record:
+    ID: 102,
+    Name: Sara,
+    Salary: 30000
+    
