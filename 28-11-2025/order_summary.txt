@@ -1,0 +1,5 @@
+Name: Salad
+Quantity: 1
+Price: 90 
+Total price: 90 
+Subtotal: 190 

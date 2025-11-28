@@ -1,0 +1,3 @@
+Product	Price
+Laptop 55000
+Mouse 800

@@ -1,0 +1,3 @@
+['Product\tPrice\n'] 	 
+['Laptop', '55000\n'] 	 
+['Mouse', '800'] 	 
