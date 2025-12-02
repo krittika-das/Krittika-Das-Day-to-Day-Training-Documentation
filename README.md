@@ -12,3 +12,5 @@ Folder 27-11-2025: OOPs concepts, inheritance, super(), types of inheritance, me
 Folder 28-11-2025: Lambda functions, dynamic content in files (.txt, .csv, .log) using lambda and Week 1 consolidated exercises.
 ## Day 6
 Folder 01-12-2025: Exception handling: try-except, finally, custom-made exceptions, pandas.
+## Day 7
+Folder 02-12-2025: JSON with Python
