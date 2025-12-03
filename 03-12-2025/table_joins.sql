@@ -29,3 +29,5 @@ select e.emp_id, e.emp_name, d.dept_name from employees e right join departments
 select e.emp_id, e.emp_name, d.dept_name from employees e left join departments d on d.dept_id=e.dept_id
 union
 select e.emp_id, e.emp_name, d.dept_name from employees e right join departments d on d.dept_id=e.dept_id
+
+select e.emp_id, e.emp_name, d.dept_name from employees e cross join departments d;
