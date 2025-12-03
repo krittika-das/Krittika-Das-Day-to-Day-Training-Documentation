@@ -86,3 +86,7 @@ select o.order_id, c.customer_name from Orders o left join Customers c on c.cust
 select count(*) as Total_count from Orders o left join Customers c on c.customer_id=o.customer_id
 
 select (count(c.customer_id is null)*100/  count(*)) from Orders o left join Customers c on c.customer_id=o.customer_id
+
+select o.order_id, p.product_id, p.product_name from Orders o right join Products p on o.product_id=o.product_id
+
+select p.product_name from Orders o right join Products p on o.product_id=o.product_id where o.order_id=Null
