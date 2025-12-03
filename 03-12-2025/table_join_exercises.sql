@@ -64,3 +64,25 @@ select c.customer_name, o.total_amount from Customers c inner join Orders o on c
 select c.customer_name, p.product_name from Customers c inner join Orders o on c.customer_id=o.customer_id inner join Products p on o.product_id=p.product_id where p.category='Electronics'
 
 select c.customer_name from Customers c inner join Orders o on c.customer_id=o.customer_id inner join Products p on o.product_id=p.product_id where category='Fashion'
+
+select distinct c.customer_name from Customers c inner join Orders o on c.customer_id=o.customer_id inner join Products p on o.product_id=p.product_id where c.city='Mumbai'
+
+select c.customer_name, count(p.product_id) from Customers c inner join Orders o on c.customer_id=o.customer_id inner join Products p on o.product_id=p.product_id group by c.customer_name
+
+select c.customer_name, sum(o.total_amount) from Customers c inner join Orders o on c.customer_id=o.customer_id inner join Products p on o.product_id=p.product_id group by c.customer_name
+
+select o.order_id, order_date, c.customer_id from Orders o left join Customers c on c.customer_id=o.customer_id
+
+select o.order_id, c.city from Orders o left join Customers c on c.customer_id=o.customer_id
+
+select c.customer_name, count(o.order_id) from Customers c left join Orders o  on c.customer_id=o.customer_id group by c.customer_name
+
+select o.order_id, COALESCE(c.customer_name, 'Guest Checkout') from Orders o left join Customers c on c.customer_id=o.customer_id
+
+select o.order_id, c.customer_name from Orders o left join Customers c on c.customer_id=o.customer_id where o.product_id=NULL
+
+select o.order_id, c.customer_name from Orders o left join Customers c on c.customer_id=o.customer_id where c.city='Delhi'
+
+select count(*) as Total_count from Orders o left join Customers c on c.customer_id=o.customer_id
+
+select (count(c.customer_id is null)*100/  count(*)) from Orders o left join Customers c on c.customer_id=o.customer_id
