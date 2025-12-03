@@ -13,4 +13,6 @@ Folder 28-11-2025: Lambda functions, dynamic content in files (.txt, .csv, .log)
 ## Day 6
 Folder 01-12-2025: Exception handling: try-except, finally, custom-made exceptions, pandas.
 ## Day 7
-Folder 02-12-2025: JSON with Python
+Folder 02-12-2025: JSON with Python, pandas data manipulation and exercises.
+## Day 8
+Folder 03-12-2025: MYSQL, database and table craetion, SQL queries, CRUD operations.
