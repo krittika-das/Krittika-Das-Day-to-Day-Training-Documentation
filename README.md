@@ -16,3 +16,6 @@ Folder 01-12-2025: Exception handling: try-except, finally, custom-made exceptio
 Folder 02-12-2025: JSON with Python, pandas data manipulation and exercises.
 ## Day 8
 Folder 03-12-2025: MYSQL, database and table craetion, SQL queries, CRUD operations, python connection to SQL.
+## Day 9
+Folder 04-12-2025: Loops, Classes and Objects, Python Inheritance, Polymorphism, Encapsulation, Access Modifiers (Private, Protected)
+
