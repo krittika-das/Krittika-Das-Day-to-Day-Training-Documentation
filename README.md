@@ -19,4 +19,4 @@ Folder 03-12-2025: MYSQL, database and table craetion, SQL queries, CRUD operati
 ## Day 9
 Folder 04-12-2025: Loops, Classes and Objects, Python Inheritance, Polymorphism, Encapsulation, Access Modifiers (Private, Protected)
 ## Day 10
-Folder 05-12-2025: Encapsulation in Python, data manipulation and exercises.
+Folder 05-12-2025: Encapsulation in Python, date manipulation and exercises.
