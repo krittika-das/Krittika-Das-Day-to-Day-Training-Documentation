@@ -1,0 +1,6 @@
+sub_id,customer_name,start_date,expiry_date,created_at,plan_type,days_left,age_days,days_left_days,age_days_days,status,renewal_value
+1,Aisha Khan,2024-12-15,2025-01-15,2024-12-15 10:30:00,Monthly,-325 days +11:03:30.056460,355 days 12:56:29.944532,-325,355,Expired,1000
+2,Rahul Sharma,2025-01-05,2025-02-05,2025-01-05 09:45:00,Monthly,-304 days +11:03:30.056460,334 days 12:56:29.944532,-304,334,Expired,1000
+3,Imran Ali,2025-02-10,2025-03-10,2025-02-10 14:12:00,Monthly,-271 days +11:03:30.056460,298 days 12:56:29.944532,-271,298,Expired,1000
+4,Meera Iyer,2025-03-01,2025-04-01,2025-03-01 17:05:00,Monthly,-249 days +11:03:30.056460,279 days 12:56:29.944532,-249,279,Expired,1000
+5,Sanjay Patel,2025-02-20,2025-03-20,2025-02-20 13:00:00,Quarterly,-261 days +11:03:30.056460,288 days 12:56:29.944532,-261,288,Expired,2700
