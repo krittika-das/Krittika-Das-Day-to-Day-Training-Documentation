@@ -53,6 +53,7 @@ print(df)
 group_rep=df.groupby("plan_type").agg(total_customers=('sub_id', 'count'), average_age_days=('age_days', 'mean'), er=('renewal_value', 'sum')).reset_index()
 print(group_rep)
 
-#df.to_csv("subscription_report.csv", index=False)
+df.to_csv("subscription_report.csv", index=False)
+
 
 
