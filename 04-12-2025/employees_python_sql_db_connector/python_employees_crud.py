@@ -3,7 +3,7 @@ import mysql.connector
 conn=mysql.connector.connect(
     host="localhost",
     user="root",
-    passwd="Memories000%",
+    passwd="s27&6g%",
     database="company_db"
 )
 
@@ -35,4 +35,5 @@ viewall()
 update_salary('1', 54000)
 
 viewall()
+
 
