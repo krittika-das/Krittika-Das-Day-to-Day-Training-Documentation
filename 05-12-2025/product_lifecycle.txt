@@ -1,0 +1,18 @@
+Requirements from the PO -- Product Owner -- Client
+Requirement Document
+
+Should be Converted in Technical Document
+	Tech Lead and Sr Eng -- Reviewed by Arch
+How many classes, Interfaces, What inheritance, Components will be created, Modules
+
+Start Coding -- 5 components -- Tech lead or Arch
+	Dev Env -- VM in cloud
+
+Testing Phase -- QA -- Raise Bugs -- Fix Bugs
+	Test Env -- QA
+
+Staging Env -- QA of the company
+UAT Env (User Acceptance Environment)
+PPE -- 98% Prod (Pre-production Environment)
+
+Production Environment
