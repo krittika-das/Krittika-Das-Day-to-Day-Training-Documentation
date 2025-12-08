@@ -20,3 +20,6 @@ Folder 03-12-2025: MYSQL, database and table craetion, SQL queries, CRUD operati
 Folder 04-12-2025: Loops, Classes and Objects, Python Inheritance, Polymorphism, Encapsulation, Access Modifiers (Private, Protected)
 ## Day 10
 Folder 05-12-2025: Encapsulation in Python, date manipulation and exercises, case-based Saas application.
+## Day 11
+Folder 08-12-2025: Understanding the concepts of Flask and Django, Setting up a Flask and Django environment.
+
