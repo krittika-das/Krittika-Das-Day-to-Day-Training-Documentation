@@ -21,5 +21,7 @@ Folder 04-12-2025: Loops, Classes and Objects, Python Inheritance, Polymorphism,
 ## Day 10
 Folder 05-12-2025: Encapsulation in Python, date manipulation and exercises, case-based Saas application.
 ## Day 11
-Folder 08-12-2025: Understanding the concepts of Flask and Django, Setting up a Flask and Django environment.
+Folder 08-12-2025: Understanding the concepts of Flask, Setting up a Flask environment, exercises.
+## Day 12
+Folder 10-12-2025: Understanding the concepts of Django, Setting up a Django environment, exercises.
 
