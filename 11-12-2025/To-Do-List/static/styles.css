@@ -1,0 +1,106 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #FFF0F5; /* very light blue */
+  color: #003366;            /* dark blue text for contrast */
+}
+nav { margin-bottom: 20px; }
+table { border-collapse: collapse; width: 100%; }
+th, td { border: 1px solid #ccc; padding: 8px; }
+.flash { color: green; }
+
+.box {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  margin: 0.3rem 0;
+  border-radius: 6px;
+  background-color: #e0f2fe; /* light blue */
+  color: #0c4a6e;           /* dark blue text */
+  font-weight: 500;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+.table th {
+  background-color: #2563eb; /* blue header */
+  color: #fff;
+  padding: 0.75rem;
+  text-align: left;
+}
+
+.table td {
+  padding: 0.75rem;
+  border: 1px solid #ddd;
+}
+
+/* Alternate row colors */
+.table tr:nth-child(even) {
+  background-color: #f1f5f9; /* light gray */
+}
+.table tr:nth-child(odd) {
+  background-color: #e0f7fa; /* light teal */
+}
+
+/* Status badges */
+.badge {
+  padding: 0.3rem 0.6rem;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  font-weight: bold;
+}
+.badge.pending {
+  background-color: #fde68a; /* yellow */
+  color: #92400e;
+}
+.badge.completed {
+  background-color: #bbf7d0; /* green */
+  color: #065f46;
+}
+
+.flash-item {
+  background-color: #d1fae5; /* light green */
+  border: 1px solid #10b981; /* green border */
+  color: #065f46;            /* dark green text */
+  padding: 0.6rem 1rem;
+  border-radius: 6px;
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+}
+
+.brand.box {
+  background-color: #fef3c7; /* light orange */
+  color: #92400e;
+  padding: 0.4rem 0.8rem;
+  border-radius: 6px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.box {
+  display: inline-block;
+  padding: 0.4rem 0.8rem;
+  margin: 0.2rem 0;
+  border-radius: 6px;
+  background-color: #e0f2fe; /* light blue background */
+  color: #0c4a6e;            /* dark blue text */
+  font-weight: 500;
+}
+
+/* Buttons with color */
+.btn {
+  border: none;
+  cursor: pointer;
+  font: inherit;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  margin-top: 0.5rem;
+}
+
+.btn.box {
+  background-color: #2563eb; /* blue */
+  color: #fff;
+}

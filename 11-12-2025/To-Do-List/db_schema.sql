@@ -1,0 +1,22 @@
+CREATE DATABASE todo_app;
+USE todo_app;
+
+CREATE TABLE tasks (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  title TEXT NOT NULL,
+  description TEXT,
+  status VARCHAR(20) NOT NULL DEFAULT 'Pending',
+  created_at DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
+
+DROP DATABASE IF EXISTS todo_app;
+CREATE DATABASE todo_app CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+USE todo_app;
+
+CREATE TABLE tasks (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  title TEXT NOT NULL,
+  description TEXT,
+  status VARCHAR(20) NOT NULL DEFAULT 'Pending',
+  created_at DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
