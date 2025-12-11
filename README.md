@@ -24,4 +24,5 @@ Folder 05-12-2025: Encapsulation in Python, date manipulation and exercises, cas
 Folder 08-12-2025: Understanding the concepts of Flask, Setting up a Flask environment, exercises.
 ## Day 12
 Folder 10-12-2025: Understanding the concepts of Django, Setting up a Django environment, exercises.
-
+## Day 13
+Folder 11-12-2025: Full Stack Apllication with UI, Flask, DB.
