@@ -26,3 +26,5 @@ Folder 08-12-2025: Understanding the concepts of Flask, Setting up a Flask envir
 Folder 10-12-2025: Understanding the concepts of Django, Setting up a Django environment, exercises.
 ## Day 13
 Folder 11-12-2025: Full Stack Apllication with UI, Flask, DB, Django.
+## Day 14
+Folder 12-12-2025: About Cloud Computing and Big Data.
