@@ -28,3 +28,5 @@ Folder 10-12-2025: Understanding the concepts of Django, Setting up a Django env
 Folder 11-12-2025: Full Stack Apllication with UI, Flask, DB, Django.
 ## Day 14
 Folder 12-12-2025: About Cloud Computing and Big Data; PySpark and PySpark and exercises.
+## Day 15
+Folder 15-12-2025: PySpark with CSV, Json and exercises.
