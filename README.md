@@ -31,4 +31,6 @@ Folder 12-12-2025: About Cloud Computing and Big Data; PySpark and PySpark and e
 ## Day 15
 Folder 15-12-2025: PySpark with CSV, Json and exercises.
 ## Day 16
-Folder 16-12-2025: RDD Pyspark and exercises.
+Folder 16-12-2025: RDD PySpark and exercises.
+## Day 17
+Folder 17-12-2025: PySpark SQL and exercises.
