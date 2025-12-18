@@ -34,3 +34,5 @@ Folder 15-12-2025: PySpark with CSV, Json and exercises.
 Folder 16-12-2025: RDD PySpark and exercises.
 ## Day 17
 Folder 17-12-2025: PySpark SQL and exercises.
+## Day 18
+Folder 18-12-2025: PySpark Array, MapType, Structure exercises.
