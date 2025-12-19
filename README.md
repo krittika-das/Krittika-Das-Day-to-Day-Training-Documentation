@@ -36,3 +36,5 @@ Folder 16-12-2025: RDD PySpark and exercises.
 Folder 17-12-2025: PySpark SQL and exercises.
 ## Day 18
 Folder 18-12-2025: PySpark Array, MapType, Structure exercises.
+## Day 19
+Folder 19-12-2025: PySpark UDF, Union, Intersection and exercises.
