@@ -39,4 +39,4 @@ Folder 18-12-2025: PySpark Array, MapType, Structure exercises.
 ## Day 19
 Folder 19-12-2025: PySpark UDF, Union, Intersection and exercises.
 ## Day 20
-Folder 22-12-25: PySpark Column operations and exercises. 
+Folder 22-12-25: PySpark Column operations, data formats and exercises. 
