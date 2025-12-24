@@ -42,3 +42,5 @@ Folder 19-12-2025: PySpark UDF, Union, Intersection and exercises.
 Folder 22-12-25: PySpark Column operations, data formats and exercises. 
 ## Day 21
 Folder 23-12-2025: PySpark operations in cache.
+## Day 22
+Folder 24-12-2025: PySpark Exercises.
