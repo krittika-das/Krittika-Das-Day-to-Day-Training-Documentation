@@ -44,3 +44,5 @@ Folder 22-12-25: PySpark Column operations, data formats and exercises.
 Folder 23-12-2025: PySpark operations in cache.
 ## Day 22
 Folder 24-12-2025: PySpark Exercises.
+## Day 23
+Folder 26-12-2025: PySpark Exercises.
