@@ -46,3 +46,5 @@ Folder 23-12-2025: PySpark operations in cache.
 Folder 24-12-2025: PySpark Exercises.
 ## Day 23
 Folder 26-12-2025: PySpark Exercises.
+## Day 24
+Folder 29-12-2025: Azure Basics and Documentation (IaaS, PaaS, SaaS, Azure Storage).
