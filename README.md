@@ -49,4 +49,6 @@ Folder 26-12-2025: PySpark Exercises.
 ## Day 24
 Folder 29-12-2025: Azure Basics and Documentation (IaaS, PaaS, SaaS, Azure Storage).
 ## Day 25
-Folder 30-12-2025: Azure Data Factory, Azure Data Lake, Azure Synapse Analytics, Azure Databricks. 
+Folder 30-12-2025: Azure Data Factory, Azure Data Lake, Azure Synapse Analytics, Azure Databricks, Azure Aztive Directory and Microsoft Entra ID.
+## Day 26
+Folder 02-01-2026: Hands-on on Creation of Blob Storage via Cloudshell and Implementing Authentication. 
