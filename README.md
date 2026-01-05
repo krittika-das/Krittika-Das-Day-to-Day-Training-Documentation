@@ -52,3 +52,5 @@ Folder 29-12-2025: Azure Basics and Documentation (IaaS, PaaS, SaaS, Azure Stora
 Folder 30-12-2025: Azure Data Factory, Azure Data Lake, Azure Synapse Analytics, Azure Databricks, Azure Aztive Directory and Microsoft Entra ID.
 ## Day 26
 Folder 02-01-2026: Hands-on on Creation of Blob Storage via Cloudshell and Implementing Authentication. 
+## Day 27
+Folder 05-01-2026: Hands-on on Sending and receiving events with Azure Event Hubs and messages with Azure Service Bus.
