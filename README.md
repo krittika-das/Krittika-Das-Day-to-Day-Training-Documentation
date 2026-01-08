@@ -58,4 +58,6 @@ Folder 05-01-2026: Hands-on on Sending and receiving events with Azure Event Hub
 Folder 06-01-2026: Hands-on on Creating a Function App in Azure via local IDE, created a logic app for queue messaging.
 ## Day 29
 Folder 07-01-2026: Hands-on on Creating and Retrieving Secrets from Azure Key Vault, Route events to a custom endpoint using Azure Events Hub.
+## Day 30
+Folder 08-01-2026: Hand-on Azure.
 
