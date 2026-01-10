@@ -59,5 +59,8 @@ Folder 06-01-2026: Hands-on on Creating a Function App in Azure via local IDE, c
 ## Day 29
 Folder 07-01-2026: Hands-on on Creating and Retrieving Secrets from Azure Key Vault, Route events to a custom endpoint using Azure Events Hub.
 ## Day 30
-Folder 08-01-2026: Hand-on Azure.
-
+Folder 08-01-2026: Hands-on Azure.
+## Day 31
+Folder 09-01-2026: Introduction to AWS, services-mapping between AWS and Azure.
+## Day 32
+Folder 10-01-2026: AWS Storage Buckets, Vector Buckets and Storage Tables.
