@@ -64,3 +64,5 @@ Folder 08-01-2026: Hands-on Azure.
 Folder 09-01-2026: Introduction to AWS, services-mapping between AWS and Azure.
 ## Day 32
 Folder 10-01-2026: AWS Storage Buckets, Vector Buckets and Storage Tables.
+## Day 33
+Folder 12-01-2026: Hands-on on AWS Lambda Functions.
