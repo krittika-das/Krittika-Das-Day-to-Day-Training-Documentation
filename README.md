@@ -66,3 +66,9 @@ Folder 09-01-2026: Introduction to AWS, services-mapping between AWS and Azure.
 Folder 10-01-2026: AWS Storage Buckets, Vector Buckets and Storage Tables.
 ## Day 33
 Folder 12-01-2026: Hands-on on AWS Lambda Functions.
+## Day 34
+Folder 13-01-2026: Documentation on AWS Containers and Kubernetes.
+## Day 35
+Folder 14-01-2026: Documentation on GCP
+## Day 36
+Folder 15-01-2026: Capstone Project: Order Processing and Analytics project
