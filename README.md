@@ -75,4 +75,4 @@ Folder 15-01-2026: Capstone Project: Order Processing and Analytics project
 ## Day 37
 Folder 16-01-2026: Capstone Project: Customer Analysis
 ## Day 38 & 39
-Folder 18-01-2026: Final Project and Demo
+Folder 19-01-2026: Final Project and Demo
