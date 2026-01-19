@@ -72,3 +72,7 @@ Folder 13-01-2026: Documentation on AWS Containers and Kubernetes.
 Folder 14-01-2026: Documentation on GCP
 ## Day 36
 Folder 15-01-2026: Capstone Project: Order Processing and Analytics project
+## Day 37
+Folder 16-01-2026: Capstone Project: Customer Analysis
+## Day 38 & 39
+Folder 18-01-2026: Final Project and Demo
